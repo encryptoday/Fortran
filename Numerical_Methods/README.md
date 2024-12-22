@@ -5,3 +5,6 @@ I am including all the input and output for each program bellow for better under
 
 ## 1_bisection_method.f90
 ![Problem 1](https://mmm.sh/github/fortran/numerical/bisection.png)
+
+## 2_fixed_point_iteration.f90
+![Problem 1](https://mmm.sh/github/fortran/numerical/fixed_point.png)

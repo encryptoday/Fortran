@@ -17,3 +17,6 @@ I am including all the input and output for each program bellow for better under
 
 ## 5_newton_forward.f90
 ![Problem 1](https://mmm.sh/github/fortran/numerical/newton_forward.png)
+
+## 6_newton_backward.f90
+![Problem 1](https://mmm.sh/github/fortran/numerical/newton_backward.png)

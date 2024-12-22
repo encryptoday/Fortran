@@ -5,3 +5,6 @@ I am including all the input and output for each program bellow for better under
 
 ## 1_truth_table.f90
 ![Problem 1](https://mmm.sh/github/fortran/discrete/tt.png)
+
+## 1_truth_table_equivalence.f90
+![Problem 1](https://mmm.sh/github/fortran/discrete/tt2.png)

@@ -26,3 +26,6 @@ I am including all the input and output for each program bellow for better under
 
 ## 8_jacobi_method.f90
 ![Problem 1](https://mmm.sh/github/fortran/numerical/jacobi.png)
+
+## 9_gauss_seidel.f90
+![Problem 1](https://mmm.sh/github/fortran/numerical/gauss_seidel.png)

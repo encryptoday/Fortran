@@ -13,4 +13,4 @@ I am including all the input and output for each program bellow for better under
 ![Problem 1](https://mmm.sh/github/fortran/discrete/graph_path_finder.png)
 
 ## 4_travelling_salesman.f90
-![Problem 1](https://mmm.sh/github/fortran/discrete/graph_path_finder.png)
+![Problem 1](https://mmm.sh/github/fortran/discrete/travelling_salesman.png)

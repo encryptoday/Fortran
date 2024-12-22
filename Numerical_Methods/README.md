@@ -23,3 +23,6 @@ I am including all the input and output for each program bellow for better under
 
 ## 7_lagrange_interpolation.f90
 ![Problem 1](https://mmm.sh/github/fortran/numerical/lagrange_interpolation.png)
+
+## 8_jacobi_method.f90
+![Problem 1](https://mmm.sh/github/fortran/numerical/jacobi.png)

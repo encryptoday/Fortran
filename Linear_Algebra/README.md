@@ -7,4 +7,4 @@ I am including all the input and output for each program bellow for better under
 ![Problem 1](https://mmm.sh/github/fortran/linear/linear_01.png)
 
 ## 5_gaussian_elimination.f90
-![Problem 1](https://mmm.sh/github/fortran/linear/linear_01.png)
+![Problem 1](https://mmm.sh/github/fortran/linear/gaussian.png)
